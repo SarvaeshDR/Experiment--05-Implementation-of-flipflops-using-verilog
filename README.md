@@ -177,37 +177,37 @@ endmodule
 
 ## SR FILPFLOP:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102313.png)
 
 ## D FLIPFLOPS:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102325.png)
 
 ## JK FILPFLOP:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102336.png)
 
 ## T FILPFLOP:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102351.png)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 ## SR FILPFLOP:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102411.png)
 
 ## D FLIPFLOPS:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102423.png)
 
 ## JK FILPFLOP:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102437.png)
 
 ## T FILPFLOP:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Experiment--05-Implementation-of-flipflops-using-verilog/main/Screenshot%202023-12-27%20102450.png)
 
 ### RESULTS 
 
